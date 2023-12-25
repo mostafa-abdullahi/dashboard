@@ -1,0 +1,49 @@
+@media (max-width: 768px) {
+    #nav-it-c{
+        display: none;
+    }
+    #nav-it-d{
+        display: none;
+    }
+    #navbar-aside{
+        display: block;
+    }
+    #navbar-aside-b{
+        display: block;
+    }
+    .fname-inpt{
+        width: 87%;
+    }
+    .email-inpt{
+        width: 87%;
+    }
+    .address-prf_inpt{
+        width: 87%;
+    }
+    .date-birth_inpt{
+        width: 87%;
+    }
+    .job-title_inpt{
+        width: 87%;
+    }
+    .item-information a{
+        font-size: 0.7rem;
+        padding: 10px 5px;
+    }
+    #now-ch_password input{
+        width: 100%;
+    }
+    #new-ch_password input{
+        width: 100%;
+    }
+    .siz-log{
+        font-size: 0.8rem;
+    }
+    .bckg-page-clr-2fa_dashboard{
+        min-height: 680px;
+    }
+    .bck-logo-lock{
+        width: 100%;
+        height: 300px;
+    }
+}

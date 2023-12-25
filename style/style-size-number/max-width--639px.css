@@ -1,0 +1,18 @@
+@media (max-width: 639px) {
+    body{
+        font-size: 16px;
+    }
+    .f-figur h1{
+        font-size: 0.9rem;
+    }
+    #date_box{
+        font-size: 0.8rem;
+    }
+    .account_information{
+        width: 18%;
+    }
+    .item-information a{
+        font-size: 0.6rem;
+        padding: 10px 5px;
+    }
+}

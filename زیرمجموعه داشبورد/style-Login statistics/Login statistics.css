@@ -1,0 +1,64 @@
+*{
+    font-size: 16px;
+    font-family: vazir;
+    direction: rtl;
+    color: #fff;
+}
+@font-face{
+    font-family: byekan;
+    src: url(../font-family/byekan/pixelboy-BYekan.ttf);
+}
+@font-face {
+    font-family: TwoMedium;
+    src: url(../../font-family/twomedium/pixelboy-TwoMedium.ttf);
+  }
+:root{
+    --primary-clr:#162f48;
+    --secondary-clr:#0e2338;
+    --light_blue-clr:#32aeff;
+    --disabled-secondary-clr:#11283f;
+    --dark_blue-clr:#3b82f6;
+    --border_blue-hover:#4f8ff8;
+}
+.bckg-page-clr-logsite{
+    background-color: var(--secondary-clr);
+    width: 98%;
+    min-height: 200px;
+    border-radius: 20px;
+    margin: 40px 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container-logbox{
+    width: 98%;
+    margin-right: auto;
+    margin-left: auto;
+}
+#none-mg{
+    padding: 40px 0px 10px 0px;
+}
+.kadr-logweb{
+    border: 1px solid #555;
+}
+.pad-logweb{
+    padding: 10px 15px;
+}
+.box-green{
+    padding: 5px 5px;
+    background-color: var(--secondary-clr);
+    color: #22c55e;
+    font-size: 0.7rem;
+    font-family: TwoMedium;
+    outline: none;
+    border: 2px solid #22c55e;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.box-green:hover{
+    color: #fff;
+    background-color: #22c55e;
+}
+.siz-log{
+    font-size: 0.8rem;
+    text-align: right;
+}

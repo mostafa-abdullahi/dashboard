@@ -1,0 +1,63 @@
+@media (max-width: 992px) {
+    .logomotion{
+        display: none;
+    }
+    #wrapper{
+        display: block;
+    }
+    .sidebar-rgh{
+        display: none;
+    }
+    .bckg-page-clr{
+        display: block;
+    }
+    .box--leg{
+        display: none;
+    }
+    .bckg-page-clr-bottom{
+        width: 100%;
+    }
+    .bckg-page-clr{
+        display: none;
+    }
+    .nav-dropdown_user--information{
+        display: block;
+    }
+    .bck-profile_bottom{
+        top: 400px;
+    }
+    .account_information{
+        display: block;
+        width: 15%;
+    }
+    .nav-info{
+        display: block;
+    }
+    #nav-it-a{
+        font-size: 1.5rem;
+        padding: 0px 5px;
+    }
+    #nav-it-b{
+        font-size: 1.5rem;
+        padding: 0px 5px;
+      }
+      #nav-it-c{
+        font-size: 1.5rem;
+        padding: 0px 5px;
+      }
+      #nav-it-d{
+        font-size: 1.5rem;
+        padding: 0px 5px;
+      }
+      .bckg-page-clr-bottom--ch_pass{
+        width: 100%;
+      }
+      .br-log-none{
+        display: none;
+      }
+      .container-infogram_box{
+        width: 95%;
+        margin-right: auto;
+        margin-left: auto;
+      }
+}

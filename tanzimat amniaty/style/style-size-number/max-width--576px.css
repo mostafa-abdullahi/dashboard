@@ -1,0 +1,43 @@
+@media (max-width: 576px) {
+    #nav-it-a{
+        padding: 0px 5px;
+        margin: 0px;
+    }
+    #nav-it-b{
+        padding: 0px;
+        margin: 0px;
+    }
+    #item-information--telegram_disable{
+        display: none;
+    }
+    .bckg-page-clr-2fa_dashboard{
+        min-height: 800px;
+    }
+    .bck-logo-lock{
+        width: 100%;
+        height: 100px;
+    }
+}
+@media (max-width: 336px) {
+    .bck-profile_bottom{
+        top: 450px;
+    }
+    .fname-inpt{
+        width: 83%;
+    }
+    .email-inpt{
+        width: 83%;
+    }
+    .address-prf_inpt{
+        width: 83%;
+    }
+    .date-birth_inpt{
+        width: 83%;
+    }
+    .job-title_inpt{
+        width: 83%;
+    }
+    .siz-log{
+        font-size: 0.6rem;
+    }
+}
